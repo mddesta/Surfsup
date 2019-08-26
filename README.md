@@ -39,9 +39,7 @@ Basic climate analysis and data exploration of a climate database and design of 
 
 Precipitation Analysis
 
-![Precipitation Analysis]
-
-(https://github.com/mddesta/Surfsup/blob/master/Output/Precipitation%20Analysis.png)
+![Precipitation Analysis](https://github.com/mddesta/Surfsup/blob/master/Output/Precipitation%20Analysis.png)
 
 Station USC00519281 Temprature Analysis
 
