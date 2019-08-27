@@ -33,7 +33,7 @@ Basic climate analysis and data exploration of a climate database and design of 
 ###### Climate App
 
 - Design a Flask API based on the queries
-- Use FLASK to create your routes.
+- Use FLASK to create routes.
 
 ### Visualization
 
